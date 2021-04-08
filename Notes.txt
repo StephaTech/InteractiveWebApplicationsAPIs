@@ -1,0 +1,9 @@
+//npm init
+
+//npm install express
+
+//package.json - scripts nodemon app.js - helps me to run the server
+
+//npm install mongoose - for connectio to the database
+
+//npm install dontev

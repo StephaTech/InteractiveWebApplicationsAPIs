@@ -1,0 +1,25 @@
+{
+  "name": "interactivewebapplicationsapis",
+  "version": "1.0.0",
+  "description": "Module Learning Outcomes Assessed MLO1 Assess the limitations of static Web solutions and design dynamic interactive web application solutions using a variety of industry standard Web application APIs and technologies MLO4 Analyse existing web applications needs to further integrate new cross-site communications services MLO5 Review and critique currently available development frameworks to aid user experience and recently developed technologies for future implementation MLO7 Design embeddable services that can integrate simple web applications into hosted web services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephaTech/InteractiveWebApplicationsAPIs.git"
+  },
+  "author": "Stephany2019472",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephaTech/InteractiveWebApplicationsAPIs/issues"
+  },
+  "homepage": "https://github.com/StephaTech/InteractiveWebApplicationsAPIs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7"
+  }
+}
